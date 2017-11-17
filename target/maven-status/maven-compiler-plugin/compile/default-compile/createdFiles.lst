@@ -1,0 +1,5 @@
+cz\expertkom\ju\springdemo\Test.class
+cz\expertkom\ju\springdemo\SpringDemoApplication.class
+cz\expertkom\ju\springdemo\api\impl\TestApiImpl.class
+cz\expertkom\ju\springdemo\service\impl\UserServiceImpl.class
+cz\expertkom\ju\springdemo\api\TestApi.class
